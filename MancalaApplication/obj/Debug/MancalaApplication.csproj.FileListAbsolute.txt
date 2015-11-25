@@ -1,0 +1,9 @@
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\bin\Debug\MancalaApplication.exe.config
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\obj\Debug\MancalaApplication.csprojResolveAssemblyReference.cache
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\obj\Debug\MancalaApplication.MancalaBoard.resources
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\obj\Debug\MancalaApplication.Properties.Resources.resources
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\obj\Debug\MancalaApplication.csproj.GenerateResource.Cache
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\bin\Debug\MancalaApplication.exe
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\bin\Debug\MancalaApplication.pdb
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\obj\Debug\MancalaApplication.exe
+C:\Users\Rhiannon\Desktop\MancalaApplication\MancalaApplication\obj\Debug\MancalaApplication.pdb
